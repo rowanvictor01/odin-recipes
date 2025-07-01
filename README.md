@@ -28,7 +28,7 @@ A simple HTML project built as part of [The Odin Project](https://www.theodinpro
 ## 📚 Sources
 
 - [Adobo Recipe - the kitchn](https://www.thekitchn.com/filipino-chicken-adobo-recipe-23652486)
-- [Sinigang Recipe - Knorr](https://www.knorr.com/ph/r/sinigang-na-baboy.html)
+- [Sinigang Recipe - Knorr](https://www.knorr.com/ph/r/sinigang-na-baboy.html/214408?gclsrc=aw.ds&gad_source=1&gad_campaignid=22525691934&gclid=CjwKCAjw6s7CBhACEiwAuHQckiegKK1LRYASUTK5aVPqG_P3ubqdqUq5DqMXbH3VnXrFWAhC0_mEJhoCpdYQAvD_BwE)
 - [Filipino Spaghetti Recipe - pinch of yum](https://pinchofyum.com/filipino-spaghetti)
 
 > These recipes are sourced for educational purposes only as part of The Odin Project curriculum.
